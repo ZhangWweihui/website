@@ -1,4 +1,4 @@
-package com.zwh.website;
+package com.zwh.website.model;
 
 import lombok.*;
 
